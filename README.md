@@ -1,1 +1,2 @@
-# Robot_UCM
+# Robot_UCM: Práctica de sensores para Rover
+- Realizado por: @alberc01, @johnbyrs, @ancral
